@@ -1,31 +1,32 @@
-# 
+![image](https://github.com/user-attachments/assets/f6b0aee5-6649-4e80-948a-b932956a81f3)
 
 
-# Proposal for Women in Movement (WIMS CARDANO ) Anniversary Celebration
+
+
+# Proposal for Women in Move Solution  (WIMS CARDANO ) Anniversary Celebration
 
 # Introduction
-Women in Movement (WIMS ) has been a vital force in empowering women 
-and celebrating their achievements for over six years. 
+Women in Move Solution  (WIMS ) has been a vital force in empowering women and young girls in Blockchain and celebrating their achievements for over six years. 
 As we approach this significant anniversary, it is essential to commemorate our milestones 
-and set an inspiring vision for the future. This proposal outlines a celebratory event 
-that captures the essence of WIMS  and fosters connections within our community.
+and set an inspiring vision for the future. This proposal outlines a celebratory event that captures the essence of WIMS  and fosters connections within our community.
 
 # Event Objectives
 
 ## 1.Celebrate Achievements:
-Acknowledge the progress made by WIM and its members over the years.
+Acknowledge the progress made by WIMS and its members over the years.
 
 ## 2.Empowerment and Inspiration:
 Inspire current and future generations of women through stories, speeches, and workshops.
 
 ## 3.Networking Opportunities:
-Foster connections between members, allies, and supporters of WIM.
+Foster connections between members, allies, and supporters of WIMS.
 
 ## 4.Raise Awareness 
 Highlight the ongoing challenges women face and promote initiatives to continue paving the way for future 
 success.
 
 # Event Details
+
 ### Date:
 [Insert proposed date]
 ### Time:
@@ -33,18 +34,19 @@ success.
 ### Location:
 [Insert venue/location details]
 ### Target Audience:
-WIM members, supporters, community leaders, and the general public
+WIM members(old,current and new), supporters, community leaders, and the general public.
 
 # Proposed Activities
 
 ### 1.Keynote Speakers: 
-Invite influential women leaders to share their journeys and insights.
+Invite influential women leaders(both in blockchain or not) to share their journeys and insights.
 
 ### 2.Panel Discussions:
-Host discussions on critical topics affecting women today.
+Host discussions on critical topics affecting women in blockchain today.
 
 ### 3.Workshops:
-Offer interactive sessions focused on skill-building, mentorship, and leadership development.
+Offer interactive sessions focused on awareness of blockchain , 
+skill-building, mentorship, and leadership development.
 
 ### 4.Networking Reception: 
 Create an environment for attendees to connect, share experiences, and build relationships.
@@ -68,11 +70,9 @@ Honor outstanding contributors to WIMS and its mission.
 ### Miscellaneous expenses
 
 # Conclusion
-The anniversary celebration of Women in Movement is not just an opportunity to look back at our achievements 
-but also a chance to rally for the future.
-It is a time to empower, connect, and inspire. By bringing together our community,
-we reinforce our commitment to the cause and celebrate the strength and resilience of women everywhere.
-We look forward to your support in making this event a resounding success
+The anniversary celebration of Women in Move Solution is not just an opportunity to look back at our achievements but also a chance to rally for the future.
+It is a time to empower, connect, and inspire. By bringing together our community, we reinforce our commitment to the cause and celebrate the strength and resilience of women everywhere.
+We look forward to your support in making this event a resounding success.
 
 # Contact Information:
 [Your Name]
