@@ -54,6 +54,9 @@ Create an environment for attendees to connect, share experiences, and build rel
 ### 5.Celebratory Dinner/Awards Ceremony: 
 Honor outstanding contributors to WIMS and its mission.
 
+### 6.Fund Raising / Donations 
+Raising funds for WIMS Cardano school girls or doing donations of school materials and accessories for the school girls.
+
 
 # Budget Consideration
 
