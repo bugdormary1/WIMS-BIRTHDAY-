@@ -13,7 +13,7 @@ and set an inspiring vision for the future. This proposal outlines a celebratory
 # Event Objectives
 
 ## 1.Celebrate Achievements:
-Acknowledge the progress made by WIMS and its members over the years.
+Acknowledge the progress made by WIMS , school girls and its members over the years.
 
 ## 2.Empowerment and Inspiration:
 Inspire current and future generations of women through stories, speeches, and workshops.
